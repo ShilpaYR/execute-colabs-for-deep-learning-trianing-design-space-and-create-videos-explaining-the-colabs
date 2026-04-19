@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 About This Repository
+##  About This Repository
 
 This repository contains **6 fully executed Google Colab notebooks** covering the deep learning training design space, completed as part of a course assignment. Each notebook has been:
 
@@ -22,17 +22,17 @@ This repository contains **6 fully executed Google Colab notebooks** covering th
 - ✅ Archived with complete inputs and outputs
 - ✅ Explained via a dedicated **YouTube video** — code block by code block
 
-> 📄 **Assignment Report:** [`Deep_Learning_Colab_Report_ShilpaYR.pdf`](./Deep_Learning_Colab_Report_ShilpaYR.pdf)
+>  **Assignment Report:** [`Deep_Learning_Colab_Report_ShilpaYR.pdf`](./Deep_Learning_Colab_Report_ShilpaYR.pdf)
 
 ---
 
-## 🎬 Colab Notebooks & YouTube Explanations
+##  Colab Notebooks & YouTube Explanations
 
 > Each entry below links directly to the executed notebook and its corresponding YouTube walkthrough video.
 
 ---
 
-### 1. 🔆 Activation Functions Tutorial
+### 1.  Activation Functions Tutorial
 
 | | |
 |---|---|
@@ -42,7 +42,7 @@ This repository contains **6 fully executed Google Colab notebooks** covering th
 
 ---
 
-### 2. ⚙️ Optimizers in Deep Learning Tutorial
+### 2.  Optimizers in Deep Learning Tutorial
 
 | | |
 |---|---|
@@ -52,7 +52,7 @@ This repository contains **6 fully executed Google Colab notebooks** covering th
 
 ---
 
-### 3. 🏗️ Modern CNN Architectures Tutorial
+### 3.  Modern CNN Architectures Tutorial
 
 | | |
 |---|---|
@@ -62,7 +62,7 @@ This repository contains **6 fully executed Google Colab notebooks** covering th
 
 ---
 
-### 4. 🎛️ Hyperparameter Tuning Tutorial
+### 4.  Hyperparameter Tuning Tutorial
 
 | | |
 |---|---|
@@ -72,7 +72,7 @@ This repository contains **6 fully executed Google Colab notebooks** covering th
 
 ---
 
-### 5. 🖼️ CNN Fundamentals Tutorial
+### 5.  CNN Fundamentals Tutorial
 
 | | |
 |---|---|
@@ -82,7 +82,7 @@ This repository contains **6 fully executed Google Colab notebooks** covering th
 
 ---
 
-### 6. 📊 Important Classification Metrics Tutorial
+### 6.  Important Classification Metrics Tutorial
 
 | | |
 |---|---|
@@ -92,7 +92,7 @@ This repository contains **6 fully executed Google Colab notebooks** covering th
 
 ---
 
-## 📋 Quick Reference Table
+##  Quick Reference Table
 
 | # | Colab Notebook | YouTube Video |
 |---|----------------|---------------|
@@ -105,10 +105,10 @@ This repository contains **6 fully executed Google Colab notebooks** covering th
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```
-📦 execute-colabs-for-deep-learning-training-design-space/
+ execute-colabs-for-deep-learning-training-design-space/
 ├── 📓 final_activation_functions_tutorial.ipynb
 ├── 📓 final_optimizers_deep_learning_tutorial.ipynb
 ├── 📓 final_modern_cnn_architectures_tutorial.ipynb
@@ -121,7 +121,7 @@ This repository contains **6 fully executed Google Colab notebooks** covering th
 
 ---
 
-## 💡 Key Learnings
+##  Key Learnings
 
 Through executing and explaining these colabs, the following core deep learning concepts were reinforced:
 
